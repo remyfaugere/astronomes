@@ -1,4 +1,4 @@
 ohannes Kepler[n 1] (ou Keppler), né le 25 décembre 1572 à Weil der Stadt et mort le 15 novembre 1630 à Ratisbonne, est un astronome allemand célèbre pour avoir étudié l'hypothèse héliocentrique de Nicolas Copernic, affirmant que la Terre tourne autour du Soleil, et surtout pour avoir découvert que les planètes ne tournent pas autour du Soleil en suivant des trajectoires circulaires parfaites, mais elliptiques. 
 La troisième loi de Kepler est dite « loi des périodes » ou « loi harmonique ».
 Mort en 1630
-Isaac Newton (25 décembre 1642 J – 20 mars 1727 J, ou 4 janvier 1643 G – 31 mars 1727 G)[N 1] est un mathématicien, physicien, philosophe, alchimiste, astronome et théologien anglais, puis britannique. Figure emblématique des sciences, il est surtout reconnu pour avoir fondé la mécanique classique, pour sa théorie de la gravitation universelle et la création, en concurrence avec Gottfried Wilhelm Leibniz, du calcul infinitésimal.
+
