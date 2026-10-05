@@ -1,4 +1,4 @@
-ohannes Kepler[n 1] (ou Keppler), né le 25 décembre 1572 à Weil der Stadt et mort le 15 novembre 1630 à Ratisbonne, est un astronome allemand célèbre pour avoir étudié l'hypothèse héliocentrique de Nicolas Copernic, affirmant que la Terre tourne autour du Soleil, et surtout pour avoir découvert que les planètes ne tournent pas autour du Soleil en suivant des trajectoires circulaires parfaites, mais elliptiques. 
+ohannes Kepler[n 1] (ou Keppler), né le 27 décembre 1572 à Weil der Stadt et mort le 15 novembre 1630 à Ratisbonne, est un astronome allemand célèbre pour avoir étudié l'hypothèse héliocentrique de Nicolas Copernic, affirmant que la Terre tourne autour du Soleil, et surtout pour avoir découvert que les planètes ne tournent pas autour du Soleil en suivant des trajectoires circulaires parfaites, mais elliptiques. 
 La troisième loi de Kepler est dite « loi des périodes » ou « loi harmonique ».
 Mort en 1630
 
